@@ -18,10 +18,4 @@ This repository includes my internship projects completed during my time at Bhar
 - **Technologies**: Machine Learning (ML)
 - **Description**: This project focuses on predicting house prices based on features like the area of the house, number of rooms, location, and other related factors. The model uses regression techniques to make accurate price predictions.
 
-## Installation
 
-To run these projects locally, follow the steps below:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/bharat-intern-projects.git
