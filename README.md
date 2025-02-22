@@ -2,7 +2,7 @@
 
 # Bharat Intern Projects
 
-This repository includes my internship projects completed during my time at Bharat Intern. The projects focus on various aspects of Artificial Intelligence and Machine Learning, and here’s a brief overview:
+These AI & ML projects employ advanced computational techniques to address real-world challenges. The Auto-Correct Tool integrates Natural Language Processing (NLP) methodologies, leveraging probabilistic models and deep learning to enhance text accuracy and contextual coherence. The Translator App utilizes state-of-the-art neural machine translation models, ensuring semantic preservation and syntactic integrity across languages. Iris Classification applies supervised learning paradigms, optimizing decision boundaries for accurate species identification. Wine Quality Prediction employs regression and classification models, analyzing physicochemical properties to infer quality metrics. House Price Prediction utilizes multivariate regression and feature engineering to model real estate valuations with high predictive accuracy.
 
 ## Projects
 
